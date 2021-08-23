@@ -1,7 +1,7 @@
 ### Olá!!! eu sou João Albuquerque! 👋
 
 - 🔭 Atualmente trabalho com Back-end
-- 🌱 Atualmente estudo javascript
+- 🌱 Atualmente estudo Javascript
 - 😄 Pronouns: ele/dele
  
  <div>
