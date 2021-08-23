@@ -1,8 +1,8 @@
 ### Olá!!! eu sou João Albuquerque! 👋
 
-- 🔭 Atualmente trabalho com Back-end
-- 🌱 Atualmente estudo Javascript
-- 😄 Pronouns: ele/dele
+🔭 Atualmente trabalho com Back-end
+🌱 Atualmente estudo Javascript
+😄 Pronouns: ele/dele
  
  <div>
   <a href="https://github.com/joaoalbuquerq">
