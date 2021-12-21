@@ -1,8 +1,8 @@
-### Olá!!! eu sou João Albuquerque! 👋
-
-🔭 Atualmente trabalho com Back-end <br>
-🌱 Atualmente estudo Javascript <br>
-😄 Pronouns: ele/dele <br>
+### Oi!!! eu sou o João Albuquerque! 👋
+* :man_student: Estudante de Ciência da computação | Estácio de Sá
+* 🔭 Estagiário Back-end | Grupo RAS <br>
+* 🌱 Atualmente estudo Javascript <br>
+* 😄  <br>
  
  <div>
   <a href="https://github.com/joaoalbuquerq">
