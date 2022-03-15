@@ -1,8 +1,8 @@
 ### Oi!!! eu sou o João Albuquerque! 👋
 * :man_student: Estudante de Ciência da computação | Estácio de Sá
-* 🔭 Estagiário Back-end | Grupo RAS <br>
+* 🔭 Desenvolvedor Trainee III | Grupo RAS <br>
 * :mag:	 Me interesso por desenvolvimento Web Front-end e Back-end <br>
-* :books:	Atualmente estou aprendendo mais sobre: ReactJS,SASS e NodeJS <br>
+* :books:	Atualmente estou aprendendo mais sobre: React e SpringBoot <br>
  
  ### 💡 Minhas Skills
   <div style="display: inline_block">
