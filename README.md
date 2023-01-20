@@ -1,8 +1,8 @@
 ### Oi!!! eu sou o João Albuquerque! 👋
 * :man_student: Estudante de Ciência da computação | Estácio de Sá
-* 🔭 Desenvolvedor Trainee III | Grupo RAS <br>
+* 🔭 Desenvolvedor FullStack | Grupo RAS <br>
 * :mag:	 Me interesso por desenvolvimento Web Front-end e Back-end <br>
-* :books:	Atualmente estou aprendendo mais sobre: React e SpringBoot <br>
+* :books:	Atualmente estou aprendendo mais sobre: Java <br>
  
  ### 💡 Minhas Skills
   <div style="display: inline_block">
