@@ -1,6 +1,6 @@
 ### Oi!!! eu sou o João Albuquerque! 👋
 * :man_student: Estudante de Ciência da computação | Estácio de Sá
-* 🔭 Desenvolvedor FullStack | Grupo RAS <br>
+* 🔭 Desenvolvedor de Software Java no Grupo RAS - Soluções em Tecnologia <br>
 * :mag:	 Me interesso por desenvolvimento Web Front-end e Back-end <br>
 * :books:	Atualmente estou aprendendo mais sobre: Java <br>
  
