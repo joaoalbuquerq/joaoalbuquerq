@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- ☕ Desenvolvedor Java <br>- 🔭 Software Developer at Grupo RAS<br>- 👨‍🎓 Estudante de Ciência da Computação <br>- 🔍 Me interesso por desenvolvimento Web Back-end<br>- 📚 Atualmente estou aprendendo mais sobre: Java</p>
+<p align="left">- ☕ Desenvolvedor Java <br>- 🔭 Desenvolvedor de Software Pleno - Grupo RAS<br>- 👨‍🎓 Estudante de Ciência da Computação <br>- 🔍 Me interesso por desenvolvimento Web Back-end<br>- 📚 Atualmente estou aprendendo mais sobre: Java</p>
 
 ###
 
