@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- ☕ Desenvolvedor Java <br>- 🔭 Desenvolvedor de Software Pleno - Grupo RAS<br>- 👨‍🎓 Estudante de Ciência da Computação <br>- 🔍 Me interesso por desenvolvimento Web Back-end<br>- 📚 Atualmente estou aprendendo mais sobre: Java</p>
+<p align="left">- ☕ Desenvolvedor Java <br>- 🔭 Software Developer at Grupo RAS<br>- 👨‍🎓 Estudante de Ciência da Computação <br>- 🔍 Me interesso por desenvolvimento Web Back-end<br>- 📚 Atualmente estou aprendendo mais sobre: Java</p>
 
 ###
 
@@ -23,8 +23,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
@@ -32,6 +30,8 @@
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
 
 ###
